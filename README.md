@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jordan
 
-<!--
-**AbMani46/AbMani46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student. Solo founder. I build things and then figure out how to get people to use them.
 
-Here are some ideas to get you started:
+## currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SolidUptime** — uptime monitoring with incident grouping and public status pages. [soliduptime.org](https://soliduptime.org)
+- **r3lish** — a discovery platform for indie software. small batches, no rankings, equal real estate for every founder. [r3lish.com](https://r3lish.com)
+
+## stack
+
+Go · Vue 3 · PostgreSQL · Docker
+
+## writing about it
+
+Building in public on X — [@AbMani46](https://x.com/AbMani46)
