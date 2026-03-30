@@ -1,6 +1,6 @@
 # Jordan
 
-CS student. Solo founder. I build things and then figure out how to get people to use them.
+CS student. Solo founder. I build things. Now I'm trying to figure out how to get people to use them.
 
 ## currently building
 
