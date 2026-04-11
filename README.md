@@ -13,4 +13,4 @@ Go · Vue 3 · PostgreSQL · Docker
 
 ## writing about it
 
-Building in public on X - [@46Manix6150](https://x.com/46Manix6150)
+ X - [@46Manix6150](https://x.com/46Manix6150)
