@@ -5,7 +5,7 @@ CS student. Solo founder. I build things. Now I'm trying to figure out how to ge
 ## currently building
 
 - **SolidUptime** - uptime monitoring with incident grouping and public status pages. [soliduptime.org](https://soliduptime.org)
-- **r3lish** - a discovery platform for indie software. small batches, no rankings, equal real estate for every founder. [r3lish.com](https://r3lish.com)
+- **Middl** - TBD
 
 ## stack
 
